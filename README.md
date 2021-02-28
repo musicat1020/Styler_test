@@ -28,6 +28,12 @@
 
 <img width="450"  src="https://user-images.githubusercontent.com/43847735/109410563-a0a40c80-79d6-11eb-8c44-b3ad1e3cbe0b.png"/>
 
+藉由切換不同branch ，同個檔案裡的東西可以不同!
+
+<img width="450"  src="https://user-images.githubusercontent.com/43847735/109410833-c92d0600-79d8-11eb-9939-aab150378da1.png"/>
+
+<img width="450"  src="https://user-images.githubusercontent.com/43847735/109410850-fd082b80-79d8-11eb-9f0f-d36909fa8dde.png"/>
+
 7.git pull origin main，將github上新的東西載至本機端做更新
 
 小提醒：
