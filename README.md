@@ -12,9 +12,10 @@
 <img width="300"  src="https://user-images.githubusercontent.com/43847735/109404996-b0a3f800-79a6-11eb-9f47-d1ebbfdb6333.png"/><img width="450"  src="https://user-images.githubusercontent.com/43847735/109405012-eea11c00-79a6-11eb-949a-f23431c03b07.png"/>
 </p>
 
+![image](https://user-images.githubusercontent.com/43847735/109409976-f4602700-79d1-11eb-9803-45081bf4390a.png)
+
 3.if clone 成功，資料夾會有Styler_test的東西，此時在git bash 輸入cd ~/Desktop/你的資料夾/Styler_test(將位置移到Styler_test)
 
-![image](https://user-images.githubusercontent.com/43847735/109409976-f4602700-79d1-11eb-9803-45081bf4390a.png)
 ![image](https://user-images.githubusercontent.com/43847735/109410028-486b0b80-79d2-11eb-99d6-1945f6b24c71.png)
 
 
