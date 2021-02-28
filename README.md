@@ -24,7 +24,9 @@
 5.輸入git checkout main，可查看main 裡面長怎樣，git checkout 你的分支，同理。
   
 <img width="450"  src="https://user-images.githubusercontent.com/43847735/109405558-a71d8e80-79ac-11eb-8b1c-e04984bb297a.png"/>
-6.可嘗試在自己的分支做一些事，之後在upload files到github  
+6.可嘗試在自己的分支做一些事，之後在upload files到github (記得切換成你要的分支，然後點選add file 裡的upload files)
+
+<img width="450"  src="https://user-images.githubusercontent.com/43847735/109410563-a0a40c80-79d6-11eb-8c44-b3ad1e3cbe0b.png"/>
 
 7.git pull origin main，將github上新的東西載至本機端做更新
 
