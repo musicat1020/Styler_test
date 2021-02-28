@@ -1,4 +1,8 @@
 # Styler_test
+前置作業：
+如果在電腦搜尋不到git bash，請去下載
+網址：https://gitbook.tw/chapters/environment/install-git-in-windows.html 
+
 1.創自己的分支  
 
 <img width="300"  src="https://user-images.githubusercontent.com/43847735/109404843-f5c72a80-79a4-11eb-96f6-57256dfffe66.png"/>
