@@ -14,6 +14,10 @@
 
 3.if clone 成功，資料夾會有Styler_test的東西，此時在git bash 輸入cd ~/Desktop/你的資料夾/Styler_test(將位置移到Styler_test)
 
+![image](https://user-images.githubusercontent.com/43847735/109409976-f4602700-79d1-11eb-9803-45081bf4390a.png)
+![image](https://user-images.githubusercontent.com/43847735/109410028-486b0b80-79d2-11eb-99d6-1945f6b24c71.png)
+
+
 4.輸入git branch，查看目前的分支
 
 5.輸入git checkout main，可查看main 裡面長怎樣，git checkout 你的分支，同理。
