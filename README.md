@@ -19,6 +19,9 @@
 
 7.git pull origin main，將github上新的東西載至本機端做更新
 
+小提醒：
+在git bash 上遇到奇怪的東西時 ，按 `q` 或`:q!` ，通常可以解決哈哈
+
 ## 參考資料：
 [GIT101 心得/筆記] GitHub 操作 -push , pull, clone , fork
 https://medium.com/@brad61517/git101-%E5%BF%83%E5%BE%97-%E7%AD%86%E8%A8%98-github-%E6%93%8D%E4%BD%9C-push-pull-clone-fork-a414d4af64be 
