@@ -38,6 +38,7 @@
 
 小提醒：
 在git bash 上遇到奇怪的東西時 ，按 `q` 或`:q!` ，通常可以解決哈哈
+放棄本地修改，強制從github更新：git reset --hard origin/你要的分支 (e.g. git reset --hard origin/main )
 
 ## 參考資料：
 [GIT101 心得/筆記] GitHub 操作 -push , pull, clone , fork
