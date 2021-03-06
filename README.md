@@ -36,8 +36,15 @@
 
 7.git pull origin main，將github上新的東西載至本機端做更新
 
+8.git log ，可察看紀錄; git checkout 版本名，可切換版本
+
+<img width="450"  src="https://user-images.githubusercontent.com/43847735/110202396-2de9d400-7ea3-11eb-97da-89105207768f.png"/>
+<img width="450"  src="https://user-images.githubusercontent.com/43847735/110202411-4eb22980-7ea3-11eb-80dd-9e8642011f32.png"/>
+
 小提醒：
+
 在git bash 上遇到奇怪的東西時 ，按 `q` 或`:q!` ，通常可以解決哈哈
+
 放棄本地修改，強制從github更新：git reset --hard origin/你要的分支 (e.g. git reset --hard origin/main )
 
 ## 參考資料：
@@ -52,4 +59,7 @@ https://www.youtube.com/watch?v=py3n6gF5Y00&list=LL&index=2
 
 Git 版本管理 #7 分支 (branch) (教学 教程 tutorial)
 https://www.youtube.com/watch?v=68CMwz3wMRE&list=LL&index=1
+
+[第一週]版本控制與 Git 基本指令
+https://miahsuwork.medium.com/%E7%AC%AC%E4%B8%80%E9%80%B1-%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E8%88%87-git-%E5%9F%BA%E6%9C%AC%E6%8C%87%E4%BB%A4-fa3c4ba286a2
 
