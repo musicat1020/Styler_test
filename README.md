@@ -45,6 +45,11 @@
 <img width="450"  src="https://user-images.githubusercontent.com/43847735/110202396-2de9d400-7ea3-11eb-97da-89105207768f.png"/>
 <img width="450"  src="https://user-images.githubusercontent.com/43847735/110202411-4eb22980-7ea3-11eb-80dd-9e8642011f32.png"/>
 
+9.當你心血來潮想用指令push時：`git add . `(將全部檔案加入索引)->`git commit -m "你要打的註解"`->`git push origin 你的分支`(origin 代表遠端節點)
+
+<img width="450"  src="https://user-images.githubusercontent.com/43847735/110235144-81265a00-7f69-11eb-9953-f5557419f6bd.png"/>
+
+
 小提醒：
 
 在git bash 上遇到奇怪的東西時 ，按 `q` 或`:q!` ，通常可以解決哈哈
