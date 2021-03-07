@@ -38,6 +38,10 @@
 
 8.git log ，可察看紀錄; git checkout 版本名，可切換版本
 
+  版本控制：允許你將檔案復原到之前的狀態、將整個專案復原到先前的狀態。
+  舉例：首先輸入git log，將列出所有歷史紀錄，由上而下是新到舊的的紀錄，可藉由按鍵盤的上下瀏覽紀錄。按q將退出歷史列表。
+        輸入git checkout e5a4f12f7cca8b55b56dfa55a567b5caab29277a，再看資料夾，會發現50%_singlepage_ver1.ipynb當時還沒改名。
+
 <img width="450"  src="https://user-images.githubusercontent.com/43847735/110202396-2de9d400-7ea3-11eb-97da-89105207768f.png"/>
 <img width="450"  src="https://user-images.githubusercontent.com/43847735/110202411-4eb22980-7ea3-11eb-80dd-9e8642011f32.png"/>
 
