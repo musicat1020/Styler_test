@@ -1,0 +1,6 @@
+cam
+dot
+floral
+lattice
+plain
+stripe
